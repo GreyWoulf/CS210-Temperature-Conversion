@@ -1,0 +1,15 @@
+Celsius Temperatures
+NewYork 21.67
+LosAngeles 23.89
+Chicago 18.33
+Houston 27.78
+Phoenix 36.67
+Philadelphia 20.00
+
+Rounded Celsius Temperatures
+NewYork 22
+LosAngeles 24
+Chicago 18
+Houston 28
+Phoenix 37
+Philadelphia 20

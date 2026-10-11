@@ -1,0 +1,6 @@
+NewYork 71
+LosAngeles 75
+Chicago 65
+Houston 82
+Phoenix 98
+Philadelphia 68
