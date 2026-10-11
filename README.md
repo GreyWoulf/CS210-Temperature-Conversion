@@ -15,7 +15,7 @@ This C++ program reads a list of cities and their average yearly temperatures in
 Compile the source file with a C++11-compatible compiler:
 
 ```bash
-g++ -std=c++11 ModuleFiveAssignment.cpp -o temperature_converter
+g++ -std=c++11 TemperatureConverter.cpp -o temperature_converter
 ```
 
 Run it from the project directory so the program can locate the input file:
